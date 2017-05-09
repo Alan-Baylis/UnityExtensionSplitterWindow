@@ -1,1 +1,6 @@
 # UnityExtensionSplitterWindow
+
+UnityEditor拡張時にWindow内で可変バーを利用するためのコード
+Consoleみたいな
+
+※画像入れる
